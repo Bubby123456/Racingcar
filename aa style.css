@@ -1,0 +1,21 @@
+body {
+    background-image: url("background.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    margin-left: 400px;
+    color: red;
+}
+
+h2 {
+    margin-left: 400px;
+    color: red;
+}
+
+canvas {
+    background-image: url("back.jpg");
+    margin: 200px;
+    margin-left: 400px;
+}
